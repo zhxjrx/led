@@ -187,13 +187,13 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 金鹰卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226166/1.m3u8
 优漫卡通,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225736/1.m3u8
 哈哈炫动,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226010/1.m3u8
-山西移动影视,#genre#
+移动影视,#genre#
 黑莓电影,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225775/1.m3u8
 电影1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226003/1.m3u8
 电视剧1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226238/1.m3u8
 电视剧2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226241/1.m3u8
 电视剧3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226000/1.m3u8
-山西,#genre#
+山西地方,#genre#
 山西卫视, http://www.kaniptv.cn/山西1.php?id=q8RVWgs
 山西经济, http://www.kaniptv.cn/山西1.php?id=4j01KWX
 山西影视, http://www.kaniptv.cn/山西1.php?id=Md571Kv
@@ -437,7 +437,7 @@ CGTN俄语国际,http://39.152.103.17:8089/tsfile/live/1105_1.m3u8?key=txiptv&pl
 CGTN西班牙国际,http://39.152.103.17:8089/tsfile/live/1106_1.m3u8?key=txiptv&playlive=1&down=1
 CGTN阿拉伯语国际,http://39.152.103.17:8089/tsfile/live/1107_1.m3u8?key=txiptv&playlive=1&down=1
 CGTN 法语国际,http://39.152.103.17:8089/tsfile/live/1108_1.m3u8?key=txiptv&playlive=1&down=1
-极速,#genre# 
+极速直播,#genre# 
 CCTV-1综合,http://t.061899.xyz/tl/dq.php?id=cctv1
 CCTV-2财经,http://t.061899.xyz/tl/dq.php?id=cctv2 
 CCTV-3综艺,http://t.061899.xyz/tl/dq.php?id=cctv3 
@@ -539,7 +539,7 @@ BRTV新闻,http://t.061899.xyz/tl/dq.php?id=bjxw
 凤凰中文,http://t.061899.xyz/tl/dq.php?id=fhzw 
 凤凰资讯,http://t.061899.xyz/tl/dq.php?id=fhzx 
 凤凰香港,http://t.061899.xyz/tl/dq.php?id=fhhk 
-极速1,#genre# 
+极速直播1,#genre# 
 CCTV-1综合,http://t.061899.xyz/tl/tl.php?id=cctv1 
 CCTV-2财经,http://t.061899.xyz/tl/tl.php?id=cctv2 
 CCTV-3综艺,http://t.061899.xyz/tl/tl.php?id=cctv3 
@@ -699,7 +699,7 @@ BRTV新闻,http://go.bkpcp.top/mg/bjxw
 凤凰中文,http://go.bkpcp.top/mg/fhzw 
 凤凰资讯,http://go.bkpcp.top/mg/fhzx 
 凤凰香港,http://go.bkpcp.top/mg/fhhk 
-极速,#genre# 
+极速直播,#genre# 
 CCTV-1综合,http://t.061899.xyz/tl/dq.php?id=cctv1
 CCTV-2财经,http://t.061899.xyz/tl/dq.php?id=cctv2 
 CCTV-3综艺,http://t.061899.xyz/tl/dq.php?id=cctv3 
@@ -801,7 +801,7 @@ BRTV新闻,http://t.061899.xyz/tl/dq.php?id=bjxw
 凤凰中文,http://t.061899.xyz/tl/dq.php?id=fhzw 
 凤凰资讯,http://t.061899.xyz/tl/dq.php?id=fhzx 
 凤凰香港,http://t.061899.xyz/tl/dq.php?id=fhhk 
-极速1,#genre# 
+极速直播1,#genre# 
 CCTV-1综合,http://t.061899.xyz/tl/tl.php?id=cctv1 
 CCTV-2财经,http://t.061899.xyz/tl/tl.php?id=cctv2 
 CCTV-3综艺,http://t.061899.xyz/tl/tl.php?id=cctv3 
@@ -940,7 +940,7 @@ Nickelodeon,http://t.061899.xyz/tl/168.php?id=nickelodeon
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 八度空间,http://php.jdshipin.com/smt.php?id=TV8
 澳门资讯,https://149.102.97.122/ch5/info_ch5.live/playlist.m3u8 
-奇异果,#genre#
+奇异果子,#genre#
 
 
 好片速递,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c55_fast_1143_1080P_t10/c55_fast_1143_1080P_t10.m3u8?d
