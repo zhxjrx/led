@@ -3,7 +3,6 @@ CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225655/1.m3u8
 CCTV1,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226032/1.m3u8
 CCTV2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226217/1.m3u8
 CCTV2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225652/1.m3u8
-CCTV3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225885/1.m3u8
 CCTV3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225967/1.m3u8
 CCTV3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226235/1.m3u8
 CCTV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225694/1.m3u8
@@ -12,7 +11,6 @@ CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225970/1.m3u8
 CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226088/1.m3u8
 CCTV5,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226047/1.m3u8
 CCTV5+,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226199/1.m3u8
-CCTV6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225826/1.m3u8
 CCTV6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225973/1.m3u8
 CCTV6,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225997/1.m3u8
 CCTV7,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226035/1.m3u8
@@ -198,14 +196,14 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 电视剧2,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226241/1.m3u8
 电视剧3,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226000/1.m3u8
 山西地方,#genre#
-山西卫视, http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225940/1.m3u8
+山西卫视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225940/1.m3u8
 山西黄河,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226239/1/1.m3u8
-山西黄河, https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/6tl1e0m.m3u8
-山西影视, http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226340/1.m3u8
+山西黄河,https://livehhhttps.sxrtv.com/lsdream/lce1mC4/800/6tl1e0m.m3u8
+山西影视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226340/1.m3u8
 山西影视,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226225/1/1.m3u8
-山西经济与科技, http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226242/1.m3u8
-山西社会与法治, http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226337/1.m3u8
-山西文体生活, http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226424/1.m3u8
+山西经济与科技,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226242/1.m3u8
+山西社会与法治,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226337/1.m3u8
+山西文体生活,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226424/1.m3u8
 山西经济与科技,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226147/1/1.m3u8
 山西社会与法治,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226337/1/1.m3u8
 山西文体生活,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226161/1/1.m3u8
@@ -232,12 +230,15 @@ CETV4,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225748/1.m3u8
 绛县,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221226493/1/1.m3u8
 霍州,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225952/1/1.m3u8
 电影频道,#genre#
+CHC家庭影院,http://kent.dzzkent.top:4022/udp/234.1.3.6:5000
 CHC家庭影院,https://itv.cqii.top:8433/rtp/235.254.199.246:7980
 CHC家庭影院,http://test.yib555.dpdns.org:4000/rtp/225.1.4.209:1262
 CHC家庭影院,http://pulihua163.vicp.cc:12365/rtp/239.0.0.23:5140
+CHC动作电影,http://kent.dzzkent.top:4022/udp/234.1.3.7:5000
 CHC动作电影,https://itv.cqii.top:8433/rtp/235.254.199.247:7980
 CHC动作电影,http://test.yib555.dpdns.org:4000/rtp/225.1.4.208:1261
 CHC动作电影,http://pulihua163.vicp.cc:12365/rtp/239.0.0.24:5140
+CHC影迷电影,http://kent.dzzkent.top:4022/udp/234.1.3.9:5000
 CHC影迷电影,https://itv.cqii.top:8433/rtp/235.254.199.248:7980
 CHC影迷电影,http://test.yib555.dpdns.org:4000/rtp/225.1.4.207:1260
 CHC影迷电影,http://pulihua163.vicp.cc:12365/rtp/239.0.0.25:5140
@@ -1020,8 +1021,6 @@ Nickelodeon,http://t.061899.xyz/tl/168.php?id=nickelodeon
 动漫剧场3,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_945_1080P_t10/c59_fast_945_1080P_t10.m3u8?d
 搞笑剪辑,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_859_1080P_t10/c54_fast_859_1080P_t10.m3u8?d
 
-
-
 未知剧场1,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_750_1080P_t10/c58_fast_750_1080P_t10.m3u8?d
 未知剧场2,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_679_1080P_t10/c54_fast_679_1080P_t10.m3u8?d
 未知剧场3,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c54_fast_935_1080P_t10/c54_fast_935_1080P_t10.m3u8?d
@@ -1043,3 +1042,441 @@ Nickelodeon,http://t.061899.xyz/tl/168.php?id=nickelodeon
 未知剧场19,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_978_1080P_t10/c57_fast_978_1080P_t10.m3u8?d
 未知剧场20,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c57_fast_985_1080P_t10/c57_fast_985_1080P_t10.m3u8?d
 未知剧场21,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c58_fast_1003_1080P_t10/c58_fast_1003_1080P_t10.m3u8?d
+内蒙组播,#genre#
+CCTV1,http://kent.dzzkent.top:4022/udp/234.1.3.171:5000
+CCTV2,http://kent.dzzkent.top:4022/udp/234.1.3.173:5000
+CCTV3,http://kent.dzzkent.top:4022/udp/234.1.2.204:5001
+CCTV4,http://kent.dzzkent.top:4022/udp/234.1.3.161:5000
+CCTV5,http://kent.dzzkent.top:4022/udp/234.1.2.205:5001
+CCTV5+,http://kent.dzzkent.top:4022/udp/234.1.3.172:5000
+CCTV6,http://kent.dzzkent.top:4022/udp/234.1.2.206:5001
+CCTV7,http://kent.dzzkent.top:4022/udp/234.1.3.174:5000
+CCTV8,http://kent.dzzkent.top:4022/udp/234.1.2.207:5001
+CCTV9,http://kent.dzzkent.top:4022/udp/234.1.3.175:5000
+CCTV10,http://kent.dzzkent.top:4022/udp/234.1.3.176:5000
+CCTV11,http://kent.dzzkent.top:4022/udp/234.1.3.237:5000
+CCTV12,http://kent.dzzkent.top:4022/udp/234.1.3.177:5000
+CCTV13,http://kent.dzzkent.top:4022/udp/234.1.3.71:5000
+CCTV14,http://kent.dzzkent.top:4022/udp/234.1.3.178:5000
+CCTV15,http://kent.dzzkent.top:4022/udp/234.1.3.236:5000
+CCTV16,http://kent.dzzkent.top:4022/udp/234.1.3.197:5000
+CCTV17,http://kent.dzzkent.top:4022/udp/234.1.3.234:5000
+CCTV4K,http://kent.dzzkent.top:4022/udp/234.1.3.238:5000
+CCTV4欧洲,http://kent.dzzkent.top:4022/udp/234.1.2.159:5000
+CCTV4美洲,http://kent.dzzkent.top:4022/udp/234.1.2.158:5000
+
+北京卫视,http://kent.dzzkent.top:4022/udp/234.1.3.164:5000
+天津卫视,http://kent.dzzkent.top:4022/udp/234.1.3.168:5000
+黑龙江卫视,http://kent.dzzkent.top:4022/udp/234.1.3.152:5000
+吉林卫视,http://kent.dzzkent.top:4022/udp/234.1.3.196:5000
+辽宁卫视,http://kent.dzzkent.top:4022/udp/234.1.3.165:5000
+河北卫视,http://kent.dzzkent.top:4022/udp/234.1.3.146:5000
+河南卫视,http://kent.dzzkent.top:4022/udp/234.1.3.83:5000
+山东卫视,http://kent.dzzkent.top:4022/udp/234.1.3.162:5000
+山西卫视,http://kent.dzzkent.top:4022/udp/234.1.3.36:5000
+湖北卫视,http://kent.dzzkent.top:4022/udp/234.1.3.163:5000
+湖南卫视,http://kent.dzzkent.top:4022/udp/234.1.3.151:5000
+安徽卫视,http://kent.dzzkent.top:4022/udp/234.1.3.169:5000
+江苏卫视,http://kent.dzzkent.top:4022/udp/234.1.3.153:5000
+江西卫视,http://kent.dzzkent.top:4022/udp/234.1.3.214:5000
+浙江卫视,http://kent.dzzkent.top:4022/udp/234.1.3.154:5000
+东方卫视,http://kent.dzzkent.top:4022/udp/234.1.3.155:5000
+东南卫视,http://kent.dzzkent.top:4022/udp/234.1.3.160:5000
+厦门卫视,http://kent.dzzkent.top:4022/udp/234.1.3.59:5000
+海南卫视,http://kent.dzzkent.top:4022/udp/234.1.3.141:5000
+三沙卫视,http://kent.dzzkent.top:4022/udp/234.1.3.72:5000
+深圳卫视,http://kent.dzzkent.top:4022/udp/234.1.3.158:5000
+广东卫视,http://kent.dzzkent.top:4022/udp/234.1.3.159:5000
+广西卫视,http://kent.dzzkent.top:4022/udp/234.1.3.52:5000
+云南卫视,http://kent.dzzkent.top:4022/udp/234.1.3.23:5000
+贵州卫视,http://kent.dzzkent.top:4022/udp/234.1.3.167:5000
+重庆卫视,http://kent.dzzkent.top:4022/udp/234.1.3.166:5000
+四川卫视,http://kent.dzzkent.top:4022/udp/234.1.3.156:5000
+陕西卫视,http://kent.dzzkent.top:4022/udp/234.1.3.31:5000
+宁夏卫视,http://kent.dzzkent.top:4022/udp/234.1.3.27:5000
+甘肃卫视,http://kent.dzzkent.top:4022/udp/234.1.3.195:5000
+青海卫视,http://kent.dzzkent.top:4022/udp/234.1.3.38:5000
+西藏卫视,http://kent.dzzkent.top:4022/udp/234.1.3.35:5000
+新疆卫视,http://kent.dzzkent.top:4022/udp/234.1.3.34:5000
+兵团卫视,http://kent.dzzkent.top:4022/udp/234.1.3.60:5000
+内蒙古卫视,http://kent.dzzkent.top:4022/udp/234.1.1.9:5000
+北京4K,http://kent.dzzkent.top:4022/udp/234.1.3.74:5000
+北京纪实科教,http://kent.dzzkent.top:4022/udp/234.1.3.170:5000
+北京卡酷少儿,http://kent.dzzkent.top:4022/udp/234.1.3.55:5000
+湖南金鹰纪实,http://kent.dzzkent.top:4022/udp/234.1.3.180:5000
+湖南金鹰卡通,http://kent.dzzkent.top:4022/udp/234.1.3.73:5000
+湖南先锋乒羽,http://kent.dzzkent.top:4022/udp/234.1.3.10:5000
+广东嘉佳卡通,http://kent.dzzkent.top:4022/udp/234.1.3.58:5000
+江苏优漫卡通,http://kent.dzzkent.top:4022/udp/234.1.3.62:5000
+辽宁新动漫,http://kent.dzzkent.top:4022/udp/234.1.3.70:5000
+山东教育,http://kent.dzzkent.top:4022/udp/234.1.3.69:5000
+CETV1,http://kent.dzzkent.top:4022/udp/234.1.3.249:5000
+CETV2,http://kent.dzzkent.top:4022/udp/234.1.3.207:5000
+CETV4,http://kent.dzzkent.top:4022/udp/234.1.3.190:5000
+CHC家庭影院,http://kent.dzzkent.top:4022/udp/234.1.3.6:5000
+CHC动作电影,http://kent.dzzkent.top:4022/udp/234.1.3.7:5000
+CHC影迷电影,http://kent.dzzkent.top:4022/udp/234.1.3.9:5000
+IPTV电影,http://kent.dzzkent.top:4022/udp/234.1.3.129:5000
+IPTV电视剧,http://kent.dzzkent.top:4022/udp/234.1.3.130:5000
+IPTV综艺,http://kent.dzzkent.top:4022/udp/234.1.3.127:5000
+IPTV体育,http://kent.dzzkent.top:4022/udp/234.1.3.203:5000
+
+CCTV1,http://www.pve.onetopcloud.com:16666/udp/239.125.2.66:4120
+CCTV1,http://www.pve.onetopcloud.com:16666/udp/239.125.1.177:4130
+CCTV2,http://www.pve.onetopcloud.com:16666/udp/239.125.2.65:4120
+CCTV2,http://www.pve.onetopcloud.com:16666/udp/239.125.1.118:4130
+CCTV3,http://www.pve.onetopcloud.com:16666/udp/239.125.2.52:4120
+CCTV4,http://www.pve.onetopcloud.com:16666/udp/239.125.2.64:4120
+CCTV4,http://www.pve.onetopcloud.com:16666/udp/239.125.1.141:4130
+CCTV4美洲,http://www.pve.onetopcloud.com:16666/udp/239.125.2.197:4120
+CCTV4欧洲,http://www.pve.onetopcloud.com:16666/udp/239.125.2.196:4120
+CCTV5,http://www.pve.onetopcloud.com:16666/udp/239.125.2.54:4120
+CCTV5+,http://www.pve.onetopcloud.com:16666/udp/239.125.1.57:5000
+CCTV6,http://www.pve.onetopcloud.com:16666/udp/239.125.2.56:4120
+CCTV7,http://www.pve.onetopcloud.com:16666/udp/239.125.2.63:4120
+CCTV7,http://www.pve.onetopcloud.com:16666/udp/239.125.1.131:4130
+CCTV8,http://www.pve.onetopcloud.com:16666/udp/239.125.2.58:4120
+CCTV9,http://www.pve.onetopcloud.com:16666/udp/239.125.2.62:4120
+CCTV9,http://www.pve.onetopcloud.com:16666/udp/239.125.1.142:4130
+CCTV10,http://www.pve.onetopcloud.com:16666/udp/239.125.2.61:4120
+CCTV10,http://www.pve.onetopcloud.com:16666/udp/239.125.1.143:4130
+CCTV11,http://www.pve.onetopcloud.com:16666/udp/239.125.1.101:4120
+CCTV11,http://www.pve.onetopcloud.com:16666/udp/239.125.1.134:4130
+CCTV12,http://www.pve.onetopcloud.com:16666/udp/239.125.2.60:4120
+CCTV12,http://www.pve.onetopcloud.com:16666/udp/239.125.1.161:4130
+CCTV13,http://www.pve.onetopcloud.com:16666/udp/239.125.1.53:4120
+CCTV14,http://www.pve.onetopcloud.com:16666/udp/239.125.2.59:4120
+CCTV14,http://www.pve.onetopcloud.com:16666/udp/239.125.1.162:4130
+CCTV15,http://www.pve.onetopcloud.com:16666/udp/239.125.1.102:4120
+CCTV15,http://www.pve.onetopcloud.com:16666/udp/239.125.1.163:4130
+CCTV16,http://www.pve.onetopcloud.com:16666/udp/239.125.2.206:4120
+CCTV17,http://www.pve.onetopcloud.com:16666/udp/239.125.2.204:4120
+CCTV16-4K,http://www.pve.onetopcloud.com:16666/udp/239.125.2.218:4120
+CGTN英文纪录,http://www.pve.onetopcloud.com:16666/udp/239.125.2.199:4120
+CGTN英语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.198:4120
+CGTN西班牙语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.200:4120
+CGTN法语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.201:4120
+CGTN阿拉伯语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.202:4120
+CGTN俄语,http://www.pve.onetopcloud.com:16666/udp/239.125.2.203:4120
+CETV2,http://www.pve.onetopcloud.com:16666/udp/239.125.1.29:5000
+CETV4,http://www.pve.onetopcloud.com:16666/udp/239.125.1.110:4120
+CCTVNEWS,http://www.pve.onetopcloud.com:16666/udp/239.125.1.140:4130
+浙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.68:4120
+江苏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.69:4120
+湖北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.74:4120
+广东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.71:4120
+三佳购物,http://www.pve.onetopcloud.com:16666/udp/239.125.2.144:4120
+山西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.119:4130
+贵州卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.80:4120
+东方卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.82:4120
+辽宁卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.72:4120
+海南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.189:4120
+青海卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.150:4130
+三沙卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.180:4130
+西藏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.117:4130
+甘肃卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.190:4120
+陕西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.155:4130
+山东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.75:4120
+吉林卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.191:4120
+黑龙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.83:4120
+广西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.167:4130
+兵团卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.135:4130
+安徽卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.78:4120
+北京卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.73:4120
+东南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.77:4120
+河北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.70:4120
+天津卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.81:4120
+湖南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.67:4120
+四川卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.79:4120
+深圳卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.76:4120
+宁夏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.157:4130
+海南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.165:4130
+甘肃卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.151:4130
+云南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.160:4130
+重庆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.102:4130
+河南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.156:4130
+江西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.101:4129
+湖南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.170:4130
+江苏卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.172:4130
+深圳卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.166:4130
+黑龙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.171:4130
+四川卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.175:4130
+吉林卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.2.205:4120
+新疆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.123:4130
+东南卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.164:4130
+辽宁卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.115:4130
+广东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.154:4130
+湖北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.152:4130
+山东卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.149:4130
+贵州卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.158:4130
+天津卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.153:4130
+东方卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.116:4130
+北京卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.176:4130
+金鹰纪实,http://www.pve.onetopcloud.com:16666/udp/239.125.2.106:4134
+安徽卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.173:4130
+江西卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.174:4130
+重庆卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.168:4130
+浙江卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.159:4130
+河北卫视,http://www.pve.onetopcloud.com:16666/udp/239.125.1.169:4130
+
+山西组播,#genre#
+北京卫视4K,http://qh.zzhysx.com:8888/rtp/226.0.2.155:9172
+东方卫视4K,http://qh.zzhysx.com:8888/rtp/226.0.1.248:2121
+广东卫视4K,http://qh.zzhysx.com:8888/rtp/226.0.1.245:2120
+深圳卫视4K,http://qh.zzhysx.com:8888/rtp/226.0.1.244:2119
+湖南卫视4K,http://qh.zzhysx.com:8888/rtp/226.0.1.246:2125
+山东卫视4K,http://qh.zzhysx.com:8888/rtp/226.0.1.251:2124
+四川卫视4K,http://qh.zzhysx.com:8888/rtp/226.0.1.250:2126
+浙江卫视4K,http://qh.zzhysx.com:8888/rtp/226.0.1.247:2123
+江苏卫视4K,http://qh.zzhysx.com:8888/rtp/226.0.1.249:2122
+CCTV1HD,http://qh.zzhysx.com:8888/rtp/226.0.2.153:9136
+CCTV2HD,http://qh.zzhysx.com:8888/rtp/226.0.2.154:9144
+CCTV3HD,http://qh.zzhysx.com:8888/rtp/226.0.2.208:9576
+CCTV4HD,http://qh.zzhysx.com:8888/rtp/226.0.2.156:9160
+CCTV5HD,http://qh.zzhysx.com:8888/rtp/226.0.2.209:9584
+CCTV5+HD,http://qh.zzhysx.com:8888/rtp/226.0.2.168:9256
+CCTV6HD,http://qh.zzhysx.com:8888/rtp/226.0.2.210:9592
+CCTV7HD,http://qh.zzhysx.com:8888/rtp/226.0.2.159:9184
+CCTV8HD,http://qh.zzhysx.com:8888/rtp/226.0.2.211:9600
+CCTV9HD,http://qh.zzhysx.com:8888/rtp/226.0.2.161:9200
+CCTV10HD,http://qh.zzhysx.com:8888/rtp/226.0.2.162:9208
+CCTV12HD,http://qh.zzhysx.com:8888/rtp/226.0.2.164:9224
+CCTV13HD,http://qh.zzhysx.com:8888/rtp/226.0.2.165:9232
+CCTV14HD,http://qh.zzhysx.com:8888/rtp/226.0.2.166:9240
+CCTV16HD,http://qh.zzhysx.com:8888/rtp/226.0.2.169:9264
+CCTV17HD,http://qh.zzhysx.com:8888/rtp/226.0.2.170:9272
+CETV1HD,http://qh.zzhysx.com:8888/rtp/226.0.2.181:9360
+CETV早期教育HD,http://qh.zzhysx.com:8888/rtp/226.0.2.99:8704
+CHC影迷电影HD,http://qh.zzhysx.com:8888/rtp/226.0.2.93:8004
+CHC家庭影院HD,http://qh.zzhysx.com:8888/rtp/226.0.2.240:9820
+CHC动作电影HD,http://qh.zzhysx.com:8888/rtp/226.0.2.94:8012
+山西文体生活HD,http://qh.zzhysx.com:8888/rtp/226.0.2.16:8040
+山西文体生活HD,http://qh.zzhysx.com:8888/rtp/226.0.2.237:9808
+山西社会与法治HD,http://qh.zzhysx.com:8888/rtp/226.0.2.238:9816
+山西经济与科技HD,http://qh.zzhysx.com:8888/rtp/226.0.2.236:9800
+山西黄河HD,http://qh.zzhysx.com:8888/rtp/226.0.2.235:9792
+清徐HD,http://qh.zzhysx.com:8888/rtp/226.0.2.191:9440
+第一剧场HD,http://qh.zzhysx.com:8888/rtp/226.0.2.221:9680
+风云剧场HD,http://qh.zzhysx.com:8888/rtp/226.0.2.227:9728
+风云足球HD,http://qh.zzhysx.com:8888/rtp/226.0.2.225:9712
+风云音乐HD,http://qh.zzhysx.com:8888/rtp/226.0.2.220:9672
+世界地理HD,http://qh.zzhysx.com:8888/rtp/226.0.2.222:9688
+电视指南HD,http://qh.zzhysx.com:8888/rtp/226.0.2.218:9656
+怀旧剧场HD,http://qh.zzhysx.com:8888/rtp/226.0.2.224:9704
+兵器科技HD,http://qh.zzhysx.com:8888/rtp/226.0.2.223:9696
+女性时尚HD,http://qh.zzhysx.com:8888/rtp/226.0.2.226:9720
+高尔夫网球HD,http://qh.zzhysx.com:8888/rtp/226.0.2.217:9648
+央视台球HD,http://qh.zzhysx.com:8888/rtp/226.0.2.216:9640
+央视文化精品HD,http://qh.zzhysx.com:8888/rtp/226.0.2.219:9664
+梨园频道HD,http://qh.zzhysx.com:8888/rtp/226.0.2.115:8832
+法治天地HD,http://qh.zzhysx.com:8888/rtp/226.0.2.83:8576
+游戏风云HD,http://qh.zzhysx.com:8888/rtp/226.0.2.78:8536
+茶频道HD,http://qh.zzhysx.com:8888/rtp/226.0.2.213:9616
+武术世界HD,http://qh.zzhysx.com:8888/rtp/226.0.2.97:8688
+金鹰纪实HD,http://qh.zzhysx.com:8888/rtp/226.0.2.194:9464
+文物宝库HD,http://qh.zzhysx.com:8888/rtp/226.0.2.110:8792
+快乐垂钓HD,http://qh.zzhysx.com:8888/rtp/226.0.2.214:9624
+生活时尚HD,http://qh.zzhysx.com:8888/rtp/226.0.2.84:8584
+中国天气HD,http://qh.zzhysx.com:8888/rtp/226.0.2.103:8736
+乐游HD,http://qh.zzhysx.com:8888/rtp/226.0.2.77:8528
+动漫秀场HD,http://qh.zzhysx.com:8888/rtp/226.0.2.183:9376
+重庆卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.174:9304
+江苏卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.176:9320
+浙江卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.144:9064
+东方卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.175:9312
+深圳卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.147:9088
+北京卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.177:9328
+山东卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.149:9104
+天津卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.148:9096
+贵州卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.180:9352
+四川卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.179:9344
+广西卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.231:9760
+黑龙江卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.151:9120
+安徽卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.145:9072
+山西卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.152:9128
+江西卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.54:8344
+湖北卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.150:9112
+旅游卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.212:9608
+东南卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.188:9416
+吉林卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.58:8376
+辽宁卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.173:9296
+湖南卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.143:9056
+广东卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.146:9080
+河南卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.52:8328
+河北卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.178:9336
+宁夏卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.64:8424
+甘肃卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.55:8352
+新疆卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.67:8448
+西藏卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.66:8440
+兵团卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.62:8408
+金鹰卡通HD,http://qh.zzhysx.com:8888/rtp/226.0.2.172:9288
+哈哈炫动HD,http://qh.zzhysx.com:8888/rtp/226.0.2.44:8264
+卡酷少儿HD,http://qh.zzhysx.com:8888/rtp/226.0.2.57:8368
+山东教育卫视HD,http://qh.zzhysx.com:8888/rtp/226.0.2.130:8952
+北京纪实科教HD,http://qh.zzhysx.com:8888/rtp/226.0.2.141:9040
+东方财经HD,http://qh.zzhysx.com:8888/rtp/226.0.2.76:8520
+都市剧场HD,http://qh.zzhysx.com:8888/rtp/226.0.2.81:8560
+九屏测试HD,http://qh.zzhysx.com:8888/rtp/226.0.2.197:9488
+四海钓鱼HD,http://qh.zzhysx.com:8888/rtp/226.0.2.123:8896
+大同教育HD,http://qh.zzhysx.com:8888/rtp/226.0.2.232:9772
+金色学堂HD,http://qh.zzhysx.com:8888/rtp/226.0.2.182:9368
+
+
+央视IPV6_123123,#genre#
+CCTV-1 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000104/index.m3u8?
+CCTV-2 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000003/index.m3u8?
+CCTV-3 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000148/index.m3u8?
+CCTV-3,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000222/index.m3u8?
+CCTV-4 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000011/index.m3u8?
+CCTV-5 HDi,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000149/index.m3u8?
+CCTV-5,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000223/index.m3u8?
+CCTV-5+ HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000012/index.m3u8?
+CCTV-6 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000150/index.m3u8?
+CCTV-6,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000224/index.m3u8?
+CCTV-7,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000008/index.m3u8?
+CCTV-8 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000151/index.m3u8?
+CCTV-8,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000225/index.m3u8?
+CCTV-9 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000009/index.m3u8?
+CCTV-10 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000059/index.m3u8?
+CCTV-11,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000087/index.m3u8?
+CCTV-12 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000062/index.m3u8?
+CCTV-13,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000083/index.m3u8?
+CCTV-14 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000064/index.m3u8?
+CCTV-15,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000085/index.m3u8?
+CCTV-16 HDi,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000105/index.m3u8?
+CCTV-17 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000208/index.m3u8?
+卫视IPV6_123123,#genre#
+北京卫视4K,http://[2409:8087:c20:21::2:11]:6610/040000001000/00000001000000060000000000000549/index.m3u8?servicetype=1
+黑龙江卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000084/index.m3u8?
+吉林卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000096/index.m3u8?
+辽宁卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000016/index.m3u8?
+北京卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000017/index.m3u8?
+天津卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000052/index.m3u8?
+河北卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000097/index.m3u8?
+河南卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000048/index.m3u8?
+山东卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000013/index.m3u8?
+山西卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000100/index.m3u8?
+江苏卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000095/index.m3u8?
+东方卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000077/index.m3u8?
+安徽卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000056/index.m3u8?
+湖北卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000014/index.m3u8?
+湖南卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000073/index.m3u8?
+快乐垂钓 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000044/index.m3u8?
+金鹰纪实 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000075/index.m3u8?
+金鹰卡通 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000089/index.m3u8?
+茶频道 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000043/index.m3u8?
+浙江卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000098/index.m3u8?
+江西卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000031/index.m3u8?
+东南卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000063/index.m3u8?
+四川卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000082/index.m3u8?
+重庆卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000025/index.m3u8?
+贵州卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000028/index.m3u8?
+广东卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000090/index.m3u8?
+深圳卫视 HDi,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000092/index.m3u8?
+海南卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000067/index.m3u8?
+青海卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000076/index.m3u8?
+宁夏卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000057/index.m3u8?
+陕西卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000055/index.m3u8?
+甘肃卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000054/index.m3u8?
+西藏卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000068/index.m3u8?
+兵团卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000069/index.m3u8?
+三沙卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000070/index.m3u8?
+新疆卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000071/index.m3u8?
+云南卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000080/index.m3u8?
+广西卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000081/index.m3u8?
+厦门卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000093/index.m3u8?
+农林卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000127/index.m3u8?
+内蒙古卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000074/index.m3u8?
+大湾区卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000066/index.m3u8?
+山东教育卫视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000173/index.m3u8?
+卡酷少儿,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000053/index.m3u8?
+嘉佳卡通,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000065/index.m3u8?
+优漫卡通,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000078/index.m3u8?
+哈哈炫动,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000088/index.m3u8?
+付费IPV6_123123,#genre#
+CCTV-第一剧场 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000022/index.m3u8?
+CCTV-怀旧剧场 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000029/index.m3u8?
+CCTV-风云剧场 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000023/index.m3u8?
+CCTV-风云足球 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000027/index.m3u8?
+CCTV-风云音乐 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000024/index.m3u8?
+CCTV-世界地理 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000161/index.m3u8?
+CCTV-兵器科技 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000026/index.m3u8?
+CCTV-央视台球 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000212/index.m3u8?
+CCTV-女性时尚 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000040/index.m3u8?
+CCTV-电视指南 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000032/index.m3u8?
+CCTV-央视文化精品 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000030/index.m3u8?
+CCTV-高尔夫网球 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000162/index.m3u8?
+CETV-1 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000072/index.m3u8?
+CETV-2,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000091/index.m3u8?
+CETV-4,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000094/index.m3u8?
+纪实人文 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000079/index.m3u8?
+乐游 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000106/index.m3u8?
+生活时尚 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000109/index.m3u8?
+都市剧场 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000110/index.m3u8?
+动漫秀场 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000120/index.m3u8?
+游戏风云 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000121/index.m3u8?
+法治天地 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000123/index.m3u8?
+金色学堂 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000124/index.m3u8?
+极速汽车 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000165/index.m3u8?
+东方财经,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000122/index.m3u8?
+魅力足球,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000126/index.m3u8?
+电子体育,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000049/index.m3u8?
+中国天气,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000045/index.m3u8?
+中华特产,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000046/index.m3u8?
+证劵服务,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000041/index.m3u8?
+环球奇观,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000160/index.m3u8?
+优优宝贝,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000164/index.m3u8?
+游戏竞技,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000217/index.m3u8?
+生态环境,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000220/index.m3u8?
+收藏天下,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000221/index.m3u8?
+中央新影-老故事,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000039/index.m3u8?
+中央新影-中学生,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000060/index.m3u8?
+重庆气摩,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000018/index.m3u8?
+江苏靓妆,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000020/index.m3u8?
+财富天下,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000042/index.m3u8?
+家庭理财,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000166/index.m3u8?
+优购物,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000176/index.m3u8?
+佰乐购,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000186/index.m3u8?
+
+地方IPV6_123123,#genre#
+山西卫视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000100/index.m3u8?
+山西影视 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000130/index.m3u8?
+山西文体生活 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000132/index.m3u8?
+山西经济与科技 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000129/index.m3u8?
+山西社会与法治 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000131/index.m3u8?
+黄河频道 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000128/index.m3u8?
+潞州 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000188/index.m3u8?
+朔州-1 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000210/index.m3u8?
+朔州-2 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000209/index.m3u8?
+太原-1,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000180/index.m3u8?
+太原-2,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000181/index.m3u8?
+太原-3,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000182/index.m3u8?
+太原-4,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000183/index.m3u8?
+太原-5,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000185/index.m3u8?
+CHTV,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000037/index.m3u8?
+太原教育,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000178/index.m3u8?
+山西卫视2.5M480,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000200/index.m3u8?
+平定综合,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000196/index.m3u8?
+襄垣电视,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000216/index.m3u8?
+孝义电视台,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000179/index.m3u8?
+永和电视台,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000187/index.m3u8?
+阳泉新闻综合,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000218/index.m3u8?
+阳泉科教,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000219/index.m3u8?
+九屏同播 HD,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000167/index.m3u8?
+频道1,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000015/index.m3u8?
+频道2,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000019/index.m3u8?
+频道3,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000034/index.m3u8?
+频道4,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000036/index.m3u8?
+频道5,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000058/index.m3u8?
+频道6,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000086/index.m3u8?
+频道7,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000168/index.m3u8?
+频道8,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000169/index.m3u8?
+频道9,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000170/index.m3u8?
+频道10,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000172/index.m3u8?
+频道11,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000189/index.m3u8?
+频道12,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000190/index.m3u8?
+频道13,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000194/index.m3u8?
+频道14,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000195/index.m3u8?
+频道15,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000205/index.m3u8?
+频道16,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000206/index.m3u8?
+频道17,http://[2409:8087:c20:21::2:11]:6610/040000001000/35100001000000060000000000000214/index.m3u8?
